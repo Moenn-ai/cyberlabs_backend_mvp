@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-dotenv
+# Adicione aqui outras bibliotecas Python que seu código real precisa
+# Por exemplo:
+# requests
+# google-cloud-aiplatform
+# supabase-py
+# anthropic
